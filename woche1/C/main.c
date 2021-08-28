@@ -3,8 +3,6 @@
 #include <stdlib.h>
 
 
-
-
 int main(int argc, char const *argv[])
 {
    int x[] = {-3, 17, 0, 1, -7, -2, 8, 50, -29, -3, 7};
@@ -14,7 +12,15 @@ int main(int argc, char const *argv[])
    printf("FUNC(5, 6): %d\n", FUNC(5,6));
    exit(0);
 
-   /**
+  
+    return 0;
+}
+
+
+
+
+
+ /**
     * Fragen: 
     * A- Benennen Sie folgende Deklarationen in deutscher Umgangssprache x, p, q, r. Nur die Deklaration!!.
     * B- 
@@ -32,5 +38,3 @@ int main(int argc, char const *argv[])
         b) 2*x - 25
         d) x/y 
     */
-    return 0;
-}
