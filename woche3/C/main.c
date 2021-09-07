@@ -11,6 +11,19 @@ typedef struct person
     int age;//4
 }Person;//min=9 , max= 12
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 typedef union test
 {
     int a;//4
